@@ -1,6 +1,5 @@
 import React from "react";
 import Links from "./Links";
-import user from "../data/user";
 
 function About(props) {
   return (
